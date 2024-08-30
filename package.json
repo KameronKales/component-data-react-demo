@@ -24,9 +24,11 @@
   },
   "scripts": {
     "storybook": "yarn branding && storybook dev -p 6006",
-    "build-storybook": "yarn branding && storybook build",
+    "build-storybook": "storybook build",
     "start": "yarn storybook",
-    "branding": "yarn style-dictionary build -c branding-config.json"
+    "copy-files": "mv build storybook-static",
+    "branding": "yarn style-dictionary build -c branding-config.json",
+    "build": "yarn branding && yarn build-storybook && yarn copy-files"
   },
   "resolutions": {
     "jackspeak": "2.1.1"
