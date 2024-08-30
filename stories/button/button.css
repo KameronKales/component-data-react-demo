@@ -8,8 +8,8 @@
   line-height: 1;
 }
 .storybook-button--primary {
-  color:var(--colors-orange-500);
-  background-color: #1ea7fd;
+  color:var(--colors-primary-300);
+  background-color: var(--colors-secondary-900);
 }
 .storybook-button--secondary {
   color: #333;
