@@ -32,6 +32,6 @@ Solution:
 - Build basic web component 
 - Switch web component to use design tokens 
 - Generate sample color palette using [uicolors](https://uicolors.app/create)
-- Generate platform specific tokens from a "brand" file (received from Figma) via [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/#/) - I have checked this code in to the repo so it can be viewed, but in a real application, you would only check in the tokens and generate the platform specific code from that each build. 
+- Generate platform specific tokens from a "brand" file (received from Figma) via [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/#/) - I have checked this code in to the repo so it can be viewed, but in a real application, you would only check in the tokens and generate the platform specific code from that each build. Platform specific code is under the "build" folder.
 - Generate React code from Lit code (won't be needed once React 19 ships!). [Here is documentation from the React team on how this works](https://react.dev/reference/react-dom/components#custom-html-elements). I have not started this yet, will add to it in next few days. 
 - Generate Typescript API client from an Open API spec (proving how to integrate backend code with a front end library) using [Counterfact](https://counterfact.dev/)
