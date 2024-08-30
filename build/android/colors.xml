@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <color name="colors_black">#ff000000</color>
+  <color name="colors_white">#ffffffff</color>
+  <color name="colors_primary_100">#fffffaf0</color>
+  <color name="colors_primary_200">#fffeebc8</color>
+  <color name="colors_primary_300">#fffbd38d</color>
+  <color name="colors_primary_400">#fff6ad55</color>
+  <color name="colors_primary_500">#ffed8936</color>
+  <color name="colors_primary_600">#ffdd6b20</color>
+  <color name="colors_primary_700">#ffc05621</color>
+  <color name="colors_primary_800">#ff9c4221</color>
+  <color name="colors_primary_900">#ff7b341e</color>
+  <color name="colors_secondary_100">#ffdfefff</color>
+  <color name="colors_secondary_200">#ffb8e1ff</color>
+  <color name="colors_secondary_300">#ff7acaff</color>
+  <color name="colors_secondary_400">#ff1ea7fd</color>
+  <color name="colors_secondary_500">#ff0895ef</color>
+  <color name="colors_secondary_600">#ff0076cc</color>
+  <color name="colors_secondary_700">#ff005da5</color>
+  <color name="colors_secondary_800">#ff045088</color>
+  <color name="colors_secondary_900">#ff094371</color>
+  <color name="colors_blue_100">#ffdfefff</color>
+  <color name="colors_blue_200">#ffb8e1ff</color>
+  <color name="colors_blue_300">#ff7acaff</color>
+  <color name="colors_blue_400">#ff1ea7fd</color>
+  <color name="colors_blue_500">#ff0895ef</color>
+  <color name="colors_blue_600">#ff0076cc</color>
+  <color name="colors_blue_700">#ff005da5</color>
+  <color name="colors_blue_800">#ff045088</color>
+  <color name="colors_blue_900">#ff094371</color>
+  <color name="colors_orange_100">#fffffaf0</color>
+  <color name="colors_orange_200">#fffeebc8</color>
+  <color name="colors_orange_300">#fffbd38d</color>
+  <color name="colors_orange_400">#fff6ad55</color>
+  <color name="colors_orange_500">#ffed8936</color>
+  <color name="colors_orange_600">#ffdd6b20</color>
+  <color name="colors_orange_700">#ffc05621</color>
+  <color name="colors_orange_800">#ff9c4221</color>
+  <color name="colors_orange_900">#ff7b341e</color>
+</resources>
