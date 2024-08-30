@@ -1,15 +1,15 @@
 import { html } from 'lit';
-import { Header } from './Header';
+import { Header } from '../header/Header';
 import './page.css';
 
 export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => html`
   <article>
     ${Header({
-      user,
-      onLogin,
-      onLogout,
-      onCreateAccount,
-    })}
+  user,
+  onLogin,
+  onLogout,
+  onCreateAccount,
+})}
 
     <section class="storybook-page">
       <h2>Pages in Storybook</h2>
